@@ -47,3 +47,9 @@ RouteConfig：配置MVC应用程序的系统路由路径
 
 16，Web.config
 
+
+你所有的Controller的cs文件   实际上都在这一个dll里
+
+My_MVC-One.dll
+My_MVC-One.dll.config
+My_MVC-One.dll.pdb
